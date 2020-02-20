@@ -1,11 +1,13 @@
+
+
 # Grand Luxury Hotels Recruitment Test
 
 
 Thank you for taking the time to do our technical test. It consists of three parts:
 
-[A coding task](https://github.com/GrandLuxuryGroup/GLH.RecruitmentTests)
-[A deployment task](https://github.com/GrandLuxuryGroup/GLH.RecruitmentTests)
-[A few technical questions](https://github.com/GrandLuxuryGroup/GLH.RecruitmentTests)
+[A coding task](https://github.com/GrandLuxuryGroup/GLH.RecruitmentTests/blob/master/Test.Engineer.md#coding-test)
+[A deployment task](https://github.com/GrandLuxuryGroup/GLH.RecruitmentTests/blob/master/Test.Engineer.md#deployment-task)
+[A few technical questions](https://github.com/GrandLuxuryGroup/GLH.RecruitmentTests/blob/master/Test.Engineer.md#technical-questions)
 
 In order to avoid bounced emails we would like you to submit your results by uploading the relevant ZIP file to a shared Google Drive folder. In order to obtain the URL for this folder, please supply your Gmail or Google-based email address to either your agent or the Just Eat member of staff who assigned you the test.
 
