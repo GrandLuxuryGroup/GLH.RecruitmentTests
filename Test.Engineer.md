@@ -6,15 +6,16 @@
 Thank you for taking the time to do our technical test. It consists of three parts:
 
 [A coding task](https://github.com/GrandLuxuryGroup/GLH.RecruitmentTests/blob/master/Test.Engineer.md#coding-test)
+
 [A deployment task](https://github.com/GrandLuxuryGroup/GLH.RecruitmentTests/blob/master/Test.Engineer.md#deployment-task)
+
 [A few technical questions](https://github.com/GrandLuxuryGroup/GLH.RecruitmentTests/blob/master/Test.Engineer.md#technical-questions)
 
-In order to avoid bounced emails we would like you to submit your results by uploading the relevant ZIP file to a shared Google Drive folder. In order to obtain the URL for this folder, please supply your Gmail or Google-based email address to either your agent or the Just Eat member of staff who assigned you the test.
+Please send a email with a single zip file named {yourname}-{date}.zip containing:
 
-Please make this a single zip file named {yourname}-{date}.zip containing:
-
-a single markdown file with the answers to the technical questions
-one folder containing the technical test
+ 1. the complete solution and a readme.md 
+ 2. a single markdown file with the url of the deployed website 
+ 3. a single markdown file with the answers to the technical questions
 
 
 ## Coding Test
@@ -81,7 +82,9 @@ The Name, Cuisine Types and Rating of the restaurant are displayed
 
 Now that your web application is created and fully functional.  You will have to deploy on AWS creating ***a small pipeline*** either using the tool of your choice (Jenkins, CodeDeploy, etc.).
 
-You will have to deploy the application on AWS in a resilient and scalable way. 
+You will have to deploy the application on AWS in a resilient and scalable way.
+
+BONUS : Provide a diagram of the AWS architecture.
 
 
 ## Technical questions
